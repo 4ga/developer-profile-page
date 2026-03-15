@@ -92,7 +92,6 @@ a:focus {
 }
 
 #image-content img {
-  margin-top: 20px;
   width: 220px;
   max-width: 100%;
   height: auto;
@@ -113,6 +112,7 @@ a:focus {
     flex-direction: column;
   }
   #image-content ul {
+    margin-left: 0;
     margin-top: 20px;
   }
 }
